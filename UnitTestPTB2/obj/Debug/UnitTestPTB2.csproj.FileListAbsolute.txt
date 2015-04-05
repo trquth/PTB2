@@ -1,0 +1,7 @@
+D:\GitHub\PTB2\UnitTestPTB2\obj\Debug\UnitTestPTB2.csprojResolveAssemblyReference.cache
+D:\GitHub\PTB2\UnitTestPTB2\bin\Debug\UnitTestPTB2.dll
+D:\GitHub\PTB2\UnitTestPTB2\bin\Debug\UnitTestPTB2.pdb
+D:\GitHub\PTB2\UnitTestPTB2\bin\Debug\PTB2.exe
+D:\GitHub\PTB2\UnitTestPTB2\bin\Debug\PTB2.pdb
+D:\GitHub\PTB2\UnitTestPTB2\obj\Debug\UnitTestPTB2.dll
+D:\GitHub\PTB2\UnitTestPTB2\obj\Debug\UnitTestPTB2.pdb

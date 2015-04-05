@@ -1,0 +1,6 @@
+D:\GitHub\PTB2\PTB2\bin\Debug\PTB2.exe.config
+D:\GitHub\PTB2\PTB2\bin\Debug\PTB2.exe
+D:\GitHub\PTB2\PTB2\bin\Debug\PTB2.pdb
+D:\GitHub\PTB2\PTB2\obj\Debug\PTB2.exe
+D:\GitHub\PTB2\PTB2\obj\Debug\PTB2.pdb
+D:\GitHub\PTB2\PTB2\obj\Debug\PTB2.csprojResolveAssemblyReference.cache
